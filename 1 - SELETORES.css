@@ -1,0 +1,29 @@
+/* CLASSES = Serve para identificar vários elementos e os mesmos podem usar a mesma classe*/
+
+/* ID = Serve apenas para identificar um elemento. Pode usar apenas um ID específico uma vez na sua página*/
+
+
+
+#titulo {
+    color: brown;
+    font-size: 22px;
+}
+
+#paragrafo {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#botao {
+    background: chocolate;
+}
+
+#outro-botao {
+    background: rgb(3, 104, 33);
+}
+
+.texto {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}

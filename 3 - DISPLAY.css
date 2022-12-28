@@ -1,0 +1,35 @@
+/* 
+
+DISPLAY 
+    
+    -BLOCK
+    -INLINE
+    -INLINE-BLOCK
+    
+    -GRID
+    -FLEX
+    
+    
+    <>BLOCK
+        Vem como padrão: div, section, p, h1, h2..., ul, li, article...
+        
+        - Ocupa 100% da largura do elemento pai
+        - Sempre ocupa toda a sua linha
+        - Altura definida de acordo com o conteúdo
+        - Podemos definir height e width
+        - Podemos definir valores de margin
+        
+    <>INLINE    
+        Vem como padrão: a, span, b, i ...
+        
+        - Elementos em linha
+        - Não permite alterar height e width
+        - Não podemos definir valores de margin top(topo) e bottom(fundo)
+        - Ganha comportamento de uma palavra
+        
+    <>INLINE-BLOCK
+        
+        - Elemento em linha, porém com característica do display bçock
+        - Altura de largura podem ser alteradas
+        
+        */

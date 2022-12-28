@@ -1,0 +1,28 @@
+/* PSEUDO ELEMENTOS
+
+
+- Formas de alterar partes do elementos
+
+*/
+
+/* input::placeholder {
+  /* Estiliza o elemento escrito dentro do input 
+}
+
+p::first-letter {
+  /* Estiliza a primeira letra de um paragrafo 
+}
+
+p::first-line {
+  /* Estiliza a primeira linha de um paragrafo 
+}
+
+a::before {
+  content: ":-)"; Conteúdo antes
+}
+
+a::after {
+  content: ":-)";  Conteúdo depois
+} 
+
+*/

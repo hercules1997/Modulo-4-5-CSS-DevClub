@@ -1,0 +1,22 @@
+/* RESPONSIVIDADE
+
+Usa-se o @media ()
+
+
+    all: 
+    braile: 
+    embossed: 
+    print: 
+    projection: 
+    screen: 
+    speech: 
+
+
+    ORIENTAÇÃO
+        portrait = Altura maiopr qu a largura
+        landscape = Largura maior que a altura
+
+
+cal(): Calcula o tamanho que quero. Ex: calc: (100% - 200px); 
+*/
+
